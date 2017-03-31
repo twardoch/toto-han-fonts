@@ -3,4 +3,6 @@ This repository hosts “last good” (from my perspective) versions of Adobe’
 
 The `src` folder is the contents of [1.001R](https://github.com/adobe-fonts/source-han-sans/archive/1.001R.zip) while the `otf` folder is the contents of [1.001](https://github.com/adobe-fonts/source-han-sans/archive/1.001.zip). 
 
+* Also see [Toto fonts](https://github.com/twardoch/toto-fonts)
+
 — Adam Twardoch, April 1, 2017
